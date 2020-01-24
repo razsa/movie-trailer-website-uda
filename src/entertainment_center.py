@@ -6,7 +6,7 @@ import media
 toy_story = media.Movie("Toy Story",
                         "A story of a boy and his toys that come to life",
                         "https://goo.gl/T4dPBt",
-                        "https://www.youtube.com/watch?v=Ny_hRfvsmU8")
+                        "https://www.youtube.com/watch?v=CxwTLktovTU")
 
 avatar = media.Movie("Avatar",
                      "A marine on an alien planet",
